@@ -20,6 +20,7 @@ export default function Card() {
                         <option >Full</option>
 
                     </select>
+                    <div className='d-inline h-100 fs-5'>Totral Price</div>
                 </div>
 
             </div>
