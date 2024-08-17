@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Card() {
     return (
-        <div><div><div className="card mt-3" style={{ "width": "18rem", "maxHeight": "360px" }}>
-            <img src="..." className="card-img-top" alt="..." />
+        <div><div><div className="card mt-3" style={{ "width": "18rem", "maxHeight": "460px" }}>
+            <img src="/Food_Images/pasta.jpeg" className="card-img-top" alt="..." />
             <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is Description</p>
@@ -20,7 +20,7 @@ export default function Card() {
                         <option >Full</option>
 
                     </select>
-                    <div className='d-inline h-100 fs-5'>Totral Price </div>
+                    <div className='d-inline h-100 fs-5'>Total Price</div>
                 </div>
 
             </div>
