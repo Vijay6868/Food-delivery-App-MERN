@@ -12,5 +12,6 @@ code {
     monospace;
 }
 #carousel{
-  max-height: 500px;
+  max-height: 700px;
+object-fit:"contain !important"
 }
